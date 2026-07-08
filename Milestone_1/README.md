@@ -1,5 +1,6 @@
 Project Objective:
 The objective of this project is to analyze supply chain operations using the DataCo Smart Supply Chain dataset and build a dimensional data model in Power BI.
+Data set :https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis 
 
 Dataset Description:
 The project uses the DataCo Smart Supply Chain for Big Data Analysis dataset from Kaggle.
