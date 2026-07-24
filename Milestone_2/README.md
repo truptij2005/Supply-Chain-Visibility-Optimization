@@ -122,6 +122,19 @@ Interactive slicers allow filtering by:
 - Delivery efficiency varies across markets.
 
 ---
+---
+
+# Business Recommendations
+
+- Maintain sufficient stock for fast-moving products to prevent stock-outs.
+- Reduce procurement of slow-moving inventory to lower holding costs.
+- Improve logistics operations in regions with higher delivery times.
+- Monitor inventory performance regularly using turnover metrics.
+- Optimize warehouse space by removing obsolete inventory.
+- Implement demand forecasting to improve inventory planning.
+- Continuously monitor delivery KPIs for operational improvement.
+
+---
 
 # Project Structure
 
