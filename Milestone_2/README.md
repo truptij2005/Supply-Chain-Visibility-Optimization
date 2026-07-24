@@ -136,15 +136,4 @@ Interactive slicers allow filtering by:
 
 ---
 
-# Project Structure
-
-```
-Supply_Chain_Visibility_Optimization/
-└── Milestone_2/
-    ├── Milestone2_PowerBI.pbix
-    ├── screenshots/
-    │   ├── Inventory_Analytics.png
-    │   └── Delivery_Performance.png
-    └── README.md
-```
 
